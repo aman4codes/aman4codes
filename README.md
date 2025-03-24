@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aman4codes
 - 👀 I’m interested in learning Codes
-- 🌱 I’m currently learning C..
+- 🌱 I’m currently learning C++..
 - 💞️ I’m looking to collaborate with new learner like me.
 - 😄 Pronouns: He/Him...
 
