@@ -1,3 +1,5 @@
+![Codeforces Card](/api/profile?handle=aman4codes&theme=dark&heatmap=true&problemBarGraph=true)
+
 # 💫 About Me:
 🔭 I’m currently doing CP<br>👯 I’m looking to collaborate on Solving questions<br>🤝 I’m looking for help with Learning new Languages<br>🌱 I’m currently learning C++<br>💬 Ask me about that I know<br>⚡ Fun fact : The first video game, “Spacewar!”, was created in 1962 by MIT student Steve Russell — and it took over 200 hours to code on a computer the size of a refrigerator! 🕹️👨‍💻<br><br>That computer, the PDP-1, had no monitor — just lights and switches. Talk about hardcore coding! 😄
 
